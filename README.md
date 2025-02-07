@@ -53,6 +53,8 @@ The Audiobookshelf is your client for accessing the library. You can browse book
 1. Download the [Audiobookshelf](https://play.google.com/store/apps/details?id=com.audiobookshelf.app&hl=en-US) app
 ![abs](/abs.png)
 
+2. Make sure your are connected in the Tailscale app before attempting login
+
 2. You will be prompted to add a new server when you first open the app. When prompted for a server address paste in:
 
 >http://192.168.11.65:30067
