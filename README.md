@@ -12,4 +12,7 @@
 
 ![Tailscale](/Tailscale_icon.png)
 
-2. 
+2. Open the app and click *Get Started*
+![Tailscale](/tailscale_welcome.png)
+
+3. 
